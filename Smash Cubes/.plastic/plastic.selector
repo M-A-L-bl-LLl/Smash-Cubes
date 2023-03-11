@@ -1,0 +1,4 @@
+repository "Smash Cubes@DigitalCrunch@cloud"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: StringTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: StringTable
+  m_TableCollectionNameGuidString: 452be34c28126214788b298d5fd547c8
+  m_Entries:
+  - m_Id: 4194255450112
+    m_Key: tapToStartKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13398638800896
+    m_Key: soundKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13708182630400
+    m_Key: musicKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14007282642944
+    m_Key: gameOver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14191832018944
+    m_Key: gameOver1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14627183996928
+    m_Key: retryKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14827604619264
+    m_Key: scoreKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18106526937088
+    m_Key: languageKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34862695919616
+    m_Key: newKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35015838347264
+    m_Key: bestScoreKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35623358115840
+    m_Key: currentScoreKey
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 584244237320585240
+  references:
+    version: 2
+    RefIds:
+    - rid: 584244237320585240
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1669927648447

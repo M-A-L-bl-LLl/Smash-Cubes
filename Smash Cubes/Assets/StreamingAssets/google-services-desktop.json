@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "308585201166",
+    "project_id": "smash-cubes-2048",
+    "storage_bucket": "smash-cubes-2048.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308585201166:android:dbe3831ce10a90c8e7c65f",
+        "android_client_info": {
+          "package_name": "com.DigitalCrunch.SmashCubes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308585201166-2trcjcs26ncu007f6aqjmn11qqq2s0mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDwZQQRvI8uAOhdhfs6SK_k4Rvuk581Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308585201166-2trcjcs26ncu007f6aqjmn11qqq2s0mi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
